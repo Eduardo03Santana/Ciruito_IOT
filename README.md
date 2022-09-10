@@ -11,8 +11,8 @@ E em programação de blocos faça
 
 Desta forma, quando o switch estiver para direita, ele estará no modo segurança, e assim que detectar um movimento, irá ativar o led e o buzzer, até que o switch seja movido para a esquerda.
 
-<img src="Modo_Seguranca_Ativo">
+<img src="Modo_Segurança_Ativo.png">
 
-E quando o switch estiver para esquerda, estará no modo luz automatica, que assim que detecta movimento fica acessa por alguns segundos.
+E quando o switch estiver para esquerda, estará no modo luz automatica, que assim que detectar movimento fica acessa por alguns segundos.
 
-<img src="Modo_Luz_Ativo">
+<img src="Modo_Luz_Ativo.png">
